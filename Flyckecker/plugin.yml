@@ -1,0 +1,11 @@
+name: Flychecker
+api: 3.0.0
+main: murao\main
+version: 1.0
+commands:
+ FlyCheck:
+  usage: /fchecker
+  description: .Propertiesチェッカー
+description: FLUCHECKER
+author: muraokun
+website: FLUCHECKER
